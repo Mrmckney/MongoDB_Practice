@@ -1,0 +1,24 @@
+{
+  "name": "mongo-cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrmckney/MongoDB_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrmckney/MongoDB_Practice/issues"
+  },
+  "homepage": "https://github.com/Mrmckney/MongoDB_Practice#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.2"
+  }
+}
